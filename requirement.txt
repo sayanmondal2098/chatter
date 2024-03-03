@@ -1,0 +1,9 @@
+sentence-transformers
+uvicorn
+fastapi
+ctransformers
+ipykernel
+langchain
+python-box
+streamlit
+langchain-community
